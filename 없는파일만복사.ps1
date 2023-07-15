@@ -1,4 +1,4 @@
-# .\"없는 파일만 복사.ps1"
+# .\"없는파일만복사.ps1"
 
 Param (
 	[Parameter(HelpMessage="in folder")]
